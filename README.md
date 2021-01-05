@@ -10,6 +10,6 @@ symmetry. The main procedures of this package:
 The chord distribution function (CDF) can be obtained via the above-mentioned procedures. 
 
 If the reader is interested in the concept of the CDF, the reader can refer to the paper published by Stribeck
-on Journal of Applied Crystallography 2001, 34, 4, P496-503. 
+on the Journal of Applied Crystallography 2001, 34, 4, P496-503. 
 
 The deatls are described in the Wiki page.
