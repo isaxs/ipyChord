@@ -9,6 +9,5 @@ modification, are permitted provided that the following conditions are met:
   b. Redistributions in binary form must reproduce the above copyright
      notice, this list of conditions and the following disclaimer in the
      documentation and/or other materials provided with the distribution.
-  c. Any publication based on the code should cite the paper published on JAC.
-  d. Any commerical application based on the code must get the permission from
+  c. Any commerical application based on the code must get the permission from
      the author.
