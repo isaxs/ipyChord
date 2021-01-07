@@ -10,7 +10,7 @@ symmetry. The main procedures of this package:
 The chord distribution function (CDF) can be obtained via the above-mentioned procedures. 
 
 If the reader is interested in the concept of the CDF, the reader can refer to the paper published by Stribeck
-on the Journal of Applied Crystallography 2001, 34, 4, P496-503 and the textbook, X-ray Scattering of Soft Matter, 
+on the Journal of Applied Crystallography 2001, 34, 4, P496-503 and the textbook “X-ray Scattering of Soft Matter“  
 written by Stribeck. 
 
 The details are described in the Wiki page.
