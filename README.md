@@ -9,6 +9,9 @@ symmetry. The main procedures of this package:
 
 The chord distribution function (CDF) can be obtained via the above-mentioned procedures. 
 
+Reference. https://onlinelibrary.wiley.com/iucr/doi/10.1107/S1600576721001369
+Li, X. (2021). ipyChord : a package for evaluating small-angle X-ray scattering data of fiber symmetry. Journal of Applied Crystallography, 54(2), 680–685. https://doi.org/10.1107/S1600576721001369
+
 If the reader is interested in the concept of the CDF, the reader can refer to the paper published by Stribeck
 on the Journal of Applied Crystallography 2001, 34, 4, P496-503 and the textbook “X-ray Scattering of Soft Matter“ (https://www.springer.com/gp/book/9783540698555) written by Stribeck. 
 
